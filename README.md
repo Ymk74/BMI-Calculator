@@ -6,7 +6,7 @@ Height and Weight Input: Enter your height in meters and weight in kilograms.
 BMI Calculation: The script calculates the Body Mass Index based on the entered height and weight.
 Interpretation: Provides an interpretation of the BMI value, indicating whether it falls under the underweight, normal weight, overweight, or obesity categories.
 
-#How to Use
+# How to Use
 ## Clone the Repository:
 
 git clone https://github.com/Ymk74/BMI-Calculator.git
